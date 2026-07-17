@@ -204,7 +204,7 @@ The dataset is based on publicly reported examination paper leak incidents in In
 
 ### Dashboard 2 – Incident Details
 
-![Incident Details](Screenshots/incident-details-dashboard.png)
+![Incident Details](incident-details-dashboard.png)
 
 ## Author
 
