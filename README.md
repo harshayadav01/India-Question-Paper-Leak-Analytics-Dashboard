@@ -200,7 +200,7 @@ The dataset is based on publicly reported examination paper leak incidents in In
 
 ### Dashboard 1 – India Question Paper Leak Analytics
 
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ### Dashboard 2 – Incident Details
 
