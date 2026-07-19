@@ -173,12 +173,6 @@ Back to Dashboard
 
 ---
 
-## Dashboard Preview
-
-(Add Dashboard Screenshot Here)
-
----
-
 ## Project Files
 
 This repository includes:
